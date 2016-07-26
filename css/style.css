@@ -12,6 +12,7 @@ body{
 /* NAVBAR STYLES */
 .navbar{
 	background-color: #262626;
+	border-color: #262626;
 }
 
 .navbar-default .navbar-nav>.active>a,
@@ -19,6 +20,7 @@ body{
 .navbar-default .navbar-nav>.active>a:focus{
 	color: white;
 	background-color: black;
+
 }
 
 
